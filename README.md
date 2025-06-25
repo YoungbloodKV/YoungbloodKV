@@ -30,12 +30,12 @@ A real-time, full-stack inventory management solution tailored for retail and su
 - Built with Node.js, React.js, PostgreSQL  
 
 **Snapshots:**  
-![Dashboard](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets2/main/media/inventory-system/dashboard.png)  
-![Billing Interface](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets2/main/media/inventory-system/billing.png)  
-![Expiry Alerts](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets2/main/media/inventory-system/alerts.png)  
+![Dashboard](./AIREP_MediaAssets2/media/inventory-system/dashboard.png)  
+![Billing Interface](./AIREP_MediaAssets2/media/inventory-system/billing.png)  
+![Expiry Alerts](./AIREP_MediaAssets2/media/inventory-system/alerts.png)  
 
 **Video Demo:**  
-[Inventory System Walkthrough](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets/main/media/inventory-system/inventory_walkthrough.mp4)
+[Inventory System Walkthrough](./AIREP_MediaAssets/media/inventory-system/inventory_walkthrough.mp4)
 
 ---
 
@@ -51,11 +51,11 @@ A platform designed for ESG-conscious investors to evaluate and allocate funds b
 - Built with Flask backend and React frontend  
 
 **Snapshots:**  
-![ESG Input Form](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets/main/media/green-finance/esg_input.png)  
-![Allocated Results](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets/main/media/green-finance/allocation_result.png)
+![ESG Input Form](./AIREP_MediaAssets/media/green-finance/esg_input.png)  
+![Allocated Results](./AIREP_MediaAssets/media/green-finance/allocation_result.png)
 
 **Video Demo:**  
-[ESG Platform Walkthrough](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets/main/media/green-finance/green_finance_walkthrough.mp4)
+[ESG Platform Walkthrough](./AIREP_MediaAssets/media/green-finance/green_finance_walkthrough.mp4)
 
 ---
 
@@ -70,18 +70,92 @@ An AI-powered dual-portal system enabling pharmaceutical companies and doctors t
 - Follow-up and engagement logging  
 - Built using FastAPI, React, PostgreSQL, FAISS, OpenAI API  
 
-**Media Visibility:** AI‑REP is a private repo, but screenshots and video demos are publicly hosted in the `AIREP_MediaAssets` repository to maintain confidentiality:
+**Media Visibility:** AI‑REP is a private repo. Screenshots and video demos are publicly hosted via the AIREP_MediaAssets repository.
 
 **Doctor Portal:**  
-![Doctor Dashboard](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets/main/media/doctor/doctor_dashboard.png)  
-![Proposal Generator](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets/main/media/doctor/proposal_generator.png)
+![Doctor Dashboard](./AIREP_MediaAssets/media/doctor/doctor_dashboard.png)  
+![Proposal Generator](./AIREP_MediaAssets/media/doctor/proposal_generator.png)
 
 **Company Portal:**  
-![Browsing Doctors](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets/main/media/companies/browsing_doctors.png)  
-![Template Selection](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets/main/media/companies/template_selection.png)
+![Browsing Doctors](./AIREP_MediaAssets/media/companies/browsing_doctors.png)  
+![Template Selection](./AIREP_MediaAssets/media/companies/template_selection.png)
 
 **Walkthrough Video:**  
-[AIREP Platform Overview](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets/main/media/AIREP_Walkthrough.mp4)
+[AIREP Platform Overview](./AIREP_MediaAssets/media/AIREP_Walkthrough.mp4)
+
+---
+
+## UI & MEDIA SHOWCASE
+
+### Locality Accommodation System  
+**Folder Path:** `Locality-Accommodation-System/DEMO/media/`  
+**Files Included:**  
+- ABOUT_Page.png, ABOUT_page2.png  
+- Comparative_Section.png, Comparing_Results.png, Comparing_Results2.png  
+- Home_Map+Classifier_Page.png  
+- Locality_Accommodation_Indicatr_Walkthrough.mp4  
+- Screenshot 2025-06-22 150356.png  
+- Sidebar-Resulting1.png, Sidebar-Resulting2.png  
+- Snapshot_in_About.png, Visualizing_Map.png  
+
+**README Embed Example:**
+```markdown
+## Locality Accommodation System
+
+A flood risk classifier and accommodation recommendation platform based on AI forecasting and historical patterns.
+
+**UI Snapshots**
+- ![Home Page](./DEMO/media/Home_Map+Classifier_Page.png)
+- ![Risk Summary](./DEMO/media/Sidebar-Resulting2.png)
+- ![Comparisons](./DEMO/media/Comparative_Section.png)
+
+**Walkthrough**
+[View Full Demo](./DEMO/media/Locality_Accommodation_Indicatr_Walkthrough.mp4)
+```
+
+---
+
+### Inventory Management System – KYB  
+**Folder Path:** `Inventory_Management_System_kyb/Media/`  
+**Files Included:**  
+- Alert_Banner.png, All_Resolved_Tabs.png  
+- Billing_Summary.png, Dashboard.png  
+- Dumped_List.png, Dumped_Report1.png, Dumped_Report2.png, Dumped_section.png  
+- Epirylogs_of_all_status.png, ExpiryALerts_Page.png  
+- Inventory_Management_Walkthrough.mp4  
+- Printable_Receipt.png, Product_Selector.png, Products_page.png  
+
+**README Embed Example:**
+```markdown
+## Inventory Management System – KYB
+
+Smart expiry alerts, stock health monitoring, and dumped product analytics for retail stores.
+
+**Snapshots**
+- ![Dashboard](./Media/Dashboard.png)
+- ![Billing Summary](./Media/Billing_Summary.png)
+- ![Expiry Page](./Media/ExpiryALerts_Page.png)
+
+**Walkthrough**
+[View System Flow](./Media/Inventory_Management_Walkthrough.mp4)
+```
+
+---
+
+### ESG Dashboard & Tracker *(Planned)*  
+**Planned Folder:** `ESG_Project/Assets/Media/`  
+**Future Embed Template:**
+```markdown
+## ESG Dashboard & Tracker
+
+Sustainability metrics dashboard for corporate environmental, social, and governance tracking.
+
+**Preview**
+- ![ESG Snapshot](./Assets/Media/ESG_Snapshot1.png)
+
+**Demo**
+[Watch Walkthrough](./Assets/Media/ESG_Demo.mp4)
+```
 
 ---
 
@@ -95,33 +169,36 @@ An AI-powered dual-portal system enabling pharmaceutical companies and doctors t
 
 ## TECH STACK SUMMARY
 
-| Domain        | Technologies & Tools |
-|---------------|----------------------|
-| Languages     | Python, JavaScript, SQL |
-| Frontend      | React.js, TailwindCSS, HTML5/CSS3 |
-| Backend       | Node.js, FastAPI, Flask |
-| AI/ML         | scikit-learn, XGBoost, LSTM, ARIMA |
-| GenAI         | OpenAI API, T5, FinBERT, FAISS |
-| Databases     | PostgreSQL, MongoDB, SQLite |
-| DevOps        | GitHub Actions, Docker (Basics) |
-| Visualization | Power BI, Figma, Canva |
+| Domain        | Technologies & Tools                        |
+|---------------|---------------------------------------------|
+| Languages     | Python, JavaScript, SQL                     |
+| Frontend      | React.js, TailwindCSS, HTML5/CSS3           |
+| Backend       | Node.js, FastAPI, Flask                     |
+| AI/ML         | scikit-learn, XGBoost, LSTM, ARIMA          |
+| GenAI         | OpenAI API, T5, FinBERT, FAISS              |
+| Databases     | PostgreSQL, MongoDB, SQLite                 |
+| DevOps        | GitHub Actions, Docker (Basics)             |
+| Visualization | Power BI, Figma, Canva                      |
 
 ---
 
 ## REPOSITORY INDEX
 
-| Repository                        | Description                                                        | Visibility |
-|----------------------------------|--------------------------------------------------------------------|------------|
-| `Inventory-Expiry-System`        | Full-stack expiry-managed inventory and sales platform             | Public     |
-| `Green-Finance-ESG-Platform`     | Risk-optimized ESG fund allocator with ML and NLP integration     | Public     |
-| `AI-REP`                         | AI‑powered pharma outreach system using GPT and RAG                | Private    |
-| `.github` (This Profile Repo)    | Profile README, portfolio showcase, and media references           | Public     |
+| Repository                    | Description                                                      | Visibility |
+|------------------------------|------------------------------------------------------------------|------------|
+| Inventory-Expiry-System      | Full-stack expiry-managed inventory and sales platform           | Public     |
+| Green-Finance-ESG-Platform   | Risk-optimized ESG fund allocator with ML and NLP integration     | Public     |
+| AI-REP                       | AI‑powered pharma outreach system using GPT and RAG              | Private    |
+| .github                      | Profile README, portfolio showcase, and media references         | Public     |
 
 ---
 
 ## LICENSE & OWNERSHIP
 
-This profile and all associated repositories (unless stated otherwise) are licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+This profile and all associated repositories (unless stated otherwise) are licensed under:
+
+**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International**  
+(CC BY-NC-ND 4.0)
 
 - No derivative works allowed without permission  
 - Non-commercial usage only  
@@ -134,7 +211,9 @@ This profile and all associated repositories (unless stated otherwise) are licen
 - LinkedIn: [linkedin.com/in/keerthivasan-s-94a55b2a3](https://www.linkedin.com/in/keerthivasan-s-94a55b2a3/)  
 - Email: sreeskeerthivasan24@gmail.com  
 - Phone: +91‑91235 59042  
-Shoutout to my teammate - Yashvanth Raj R!!!
+
+Shoutout to my teammate – **Yashvanth Raj R**
+
 ---
 
-**For collaboration or access to private repositories (like AI‑REP), feel free to reach out.**
+*For collaboration or access to private repositories (like AI‑REP), feel free to reach out.*
