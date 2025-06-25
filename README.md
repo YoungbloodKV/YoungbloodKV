@@ -30,13 +30,12 @@ A real-time, full-stack inventory management solution tailored for retail and su
 - Built with Node.js, React.js, PostgreSQL  
 
 **Snapshots:**
-- ![Dashboard](./Inventory_Management_System_kyb/Media/Dashboard.png)
-- ![Billing Summary](./Inventory_Management_System_kyb/Media/Billing_Summary.png)
-- ![Expiry Alerts Page](./Inventory_Management_System_kyb/Media/ExpiryALerts_Page.png)
+- ![Dashboard](https://raw.githubusercontent.com/YoungbloodKV/Inventory_Management_System_kyb/main/Media/Dashboard.png)  
+- ![Billing Summary](https://raw.githubusercontent.com/YoungbloodKV/Inventory_Management_System_kyb/main/Media/Billing_Summary.png)  
+- ![Expiry Alerts Page](https://raw.githubusercontent.com/YoungbloodKV/Inventory_Management_System_kyb/main/Media/ExpiryALerts_Page.png)
 
 **Video Demo:**  
-[System Flow Video](./Inventory_Management_System_kyb/Media/Inventory_Management_Walkthrough.mp4)
-
+[🔗 System Flow Video](https://raw.githubusercontent.com/YoungbloodKV/Inventory_Management_System_kyb/main/Media/Inventory_Management_Walkthrough.mp4)
 ---
 
 ### Green Finance ESG Optimization Engine
@@ -51,9 +50,8 @@ A platform designed for ESG-conscious investors to evaluate and allocate funds b
 - Built with Flask backend and React frontend  
 
 **Snapshots:**  
-- ![ESG Snapshot](./ESG_Project/Assets/Media/ESG_Snapshot1.png)
-![Allocated Results](./AIREP_MediaAssets/media/green-finance/allocation_result.png)
-
+- ![ESG Snapshot](https://raw.githubusercontent.com/YoungbloodKV/ESG_Project/main/Assets/Media/ESG_Snapshot1.png)
+- ![Allocated Results](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets/main/media/green-finance/allocation_result.png)
 **Video Demo:**  
 [Watch Walkthrough](./ESG_Project/Assets/Media/ESG_Demo.mp4)
 
@@ -74,13 +72,14 @@ An AI-powered dual-portal system enabling pharmaceutical companies and doctors t
 Screenshots and media are hosted in a separate [MediaAssets Repo](https://github.com/YoungbloodKV/AIREP_MediaAssets).
 
 **Doctor Portal:**  
-![RAG](./AIREP_MediaAssets2/media/Doctor/AskAiREPRAG.png)  
-![Proposal](./AIREP_MediaAssets2/media/Doctor/QueriesAgainstDrugs.png)
+![Ask AI RAG](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets2/main/media/Doctor/AskAiREPRAG.png)
+
+![Proposal Screen](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets2/main/media/Doctor/ProposalScreen.png)
 
 **Company Portal:**  
-![Browsing Doctors](./AIREP_MediaAssets2/media/Companies/BrowsingDoctors.png)  
-![Proposal Generator](./AIREP_MediaAssets2/media/COmpanies/PreviewingProposal.png)
+![Queries Against Drugs](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets2/main/media/Doctor/QueriesAgainstDrugs.png)
 
+![Received Proposals](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets2/main/media/Doctor/ReceivedProposals.png)
 ---
 
 ## UI & MEDIA SHOWCASE
@@ -103,13 +102,12 @@ Screenshots and media are hosted in a separate [MediaAssets Repo](https://github
 A flood risk classifier and accommodation recommendation platform based on AI forecasting and historical patterns.
 
 **Snapshots:**
-- ![Home Interface](./DEMO/media/Home_Map+Classifier_Page.png)
-- ![Sidebar Results](./DEMO/media/Sidebar-Resulting2.png)
-- ![Comparison Section](./DEMO/media/Comparative_Section.png)
+- ![Home Interface](https://raw.githubusercontent.com/YoungbloodKV/Locality-Accommodation-System/main/Demo/media/Home_Map%2BClassifier_Page.png)
+- ![Sidebar Results](https://raw.githubusercontent.com/YoungbloodKV/Locality-Accommodation-System/main/Demo/media/Sidebar-Resulting2.png)
+- ![Comparison Section](https://raw.githubusercontent.com/YoungbloodKV/Locality-Accommodation-System/main/Demo/media/Comparative_Section.png)
 
 **Walkthrough**
-[View Full Demo](./DEMO/media/Locality_Accommodation_Indicatr_Walkthrough.mp4)
-```
+[▶ View Full Demo](https://raw.githubusercontent.com/YoungbloodKV/Locality-Accommodation-System/main/Demo/media/Locality_Accommodation_Indicatr_Walkthrough.mp4)
 
 ---
 
