@@ -30,9 +30,9 @@ A real-time, full-stack inventory management solution tailored for retail and su
 - Built with Node.js, React.js, PostgreSQL  
 
 **Snapshots:**  
-![Dashboard](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets/main/media/inventory-system/dashboard.png)  
-![Billing Interface](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets/main/media/inventory-system/billing.png)  
-![Expiry Alerts](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets/main/media/inventory-system/alerts.png)  
+![Dashboard](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets2/main/media/inventory-system/dashboard.png)  
+![Billing Interface](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets2/main/media/inventory-system/billing.png)  
+![Expiry Alerts](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets2/main/media/inventory-system/alerts.png)  
 
 **Video Demo:**  
 [Inventory System Walkthrough](https://raw.githubusercontent.com/YoungbloodKV/AIREP_MediaAssets/main/media/inventory-system/inventory_walkthrough.mp4)
