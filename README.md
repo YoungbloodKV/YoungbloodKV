@@ -74,12 +74,12 @@ An AI-powered dual-portal system enabling pharmaceutical companies and doctors t
 Screenshots and media are hosted in a separate [MediaAssets Repo](https://github.com/YoungbloodKV/AIREP_MediaAssets).
 
 **Doctor Portal:**  
-![RAG](./AIREP_MediaAssets/media/Doctor/AskAiREPRAG.png)  
-![Proposal](./AIREP_MediaAssets/media/Doctor/QueriesAgainstDrugs.png)
+![RAG](./AIREP_MediaAssets2/media/Doctor/AskAiREPRAG.png)  
+![Proposal](./AIREP_MediaAssets2/media/Doctor/QueriesAgainstDrugs.png)
 
 **Company Portal:**  
-![Browsing Doctors](./AIREP_MediaAssets/media/Companies/BrowsingDoctors.png)  
-![Proposal Generator](./AIREP_MediaAssets/media/COmpanies/PreviewingProposal.png)
+![Browsing Doctors](./AIREP_MediaAssets2/media/Companies/BrowsingDoctors.png)  
+![Proposal Generator](./AIREP_MediaAssets2/media/COmpanies/PreviewingProposal.png)
 
 ---
 
