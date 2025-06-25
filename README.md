@@ -29,13 +29,13 @@ A real-time, full-stack inventory management solution tailored for retail and su
 - Admin dashboard with reports and dumped product tracking  
 - Built with Node.js, React.js, PostgreSQL  
 
-**Snapshots:**  
-![Dashboard](./AIREP_MediaAssets2/media/inventory-system/dashboard.png)  
-![Billing Interface](./AIREP_MediaAssets2/media/inventory-system/billing.png)  
-![Expiry Alerts](./AIREP_MediaAssets2/media/inventory-system/alerts.png)  
+**Snapshots:**
+- ![Dashboard](./Inventory_Management_System_kyb/Media/Dashboard.png)
+- ![Billing Summary](./Inventory_Management_System_kyb/Media/Billing_Summary.png)
+- ![Expiry Alerts Page](./Inventory_Management_System_kyb/Media/ExpiryALerts_Page.png)
 
 **Video Demo:**  
-[Inventory System Walkthrough](./AIREP_MediaAssets/media/inventory-system/inventory_walkthrough.mp4)
+[System Flow Video](./Inventory_Management_System_kyb/Media/Inventory_Management_Walkthrough.mp4)
 
 ---
 
@@ -51,11 +51,11 @@ A platform designed for ESG-conscious investors to evaluate and allocate funds b
 - Built with Flask backend and React frontend  
 
 **Snapshots:**  
-![ESG Input Form](./AIREP_MediaAssets/media/green-finance/esg_input.png)  
+- ![ESG Snapshot](./ESG_Project/Assets/Media/ESG_Snapshot1.png)
 ![Allocated Results](./AIREP_MediaAssets/media/green-finance/allocation_result.png)
 
 **Video Demo:**  
-[ESG Platform Walkthrough](./AIREP_MediaAssets/media/green-finance/green_finance_walkthrough.mp4)
+[Watch Walkthrough](./ESG_Project/Assets/Media/ESG_Demo.mp4)
 
 ---
 
@@ -71,17 +71,15 @@ An AI-powered dual-portal system enabling pharmaceutical companies and doctors t
 - Built using FastAPI, React, PostgreSQL, FAISS, OpenAI API  
 
 **Media Visibility:** AI‑REP is a private repo. Screenshots and video demos are publicly hosted via the AIREP_MediaAssets repository.
+Screenshots and media are hosted in a separate [MediaAssets Repo](https://github.com/YoungbloodKV/AIREP_MediaAssets).
 
 **Doctor Portal:**  
-![Doctor Dashboard](./AIREP_MediaAssets/media/doctor/doctor_dashboard.png)  
-![Proposal Generator](./AIREP_MediaAssets/media/doctor/proposal_generator.png)
+![RAG](./AIREP_MediaAssets/media/Doctor/AskAiREPRAG.png)  
+![Proposal](./AIREP_MediaAssets/media/Doctor/QueriesAgainstDrugs.png)
 
 **Company Portal:**  
-![Browsing Doctors](./AIREP_MediaAssets/media/companies/browsing_doctors.png)  
-![Template Selection](./AIREP_MediaAssets/media/companies/template_selection.png)
-
-**Walkthrough Video:**  
-[AIREP Platform Overview](./AIREP_MediaAssets/media/AIREP_Walkthrough.mp4)
+![Browsing Doctors](./AIREP_MediaAssets/media/Companies/BrowsingDoctors.png)  
+![Proposal Generator](./AIREP_MediaAssets/media/COmpanies/PreviewingProposal.png)
 
 ---
 
@@ -104,10 +102,10 @@ An AI-powered dual-portal system enabling pharmaceutical companies and doctors t
 
 A flood risk classifier and accommodation recommendation platform based on AI forecasting and historical patterns.
 
-**UI Snapshots**
-- ![Home Page](./DEMO/media/Home_Map+Classifier_Page.png)
-- ![Risk Summary](./DEMO/media/Sidebar-Resulting2.png)
-- ![Comparisons](./DEMO/media/Comparative_Section.png)
+**Snapshots:**
+- ![Home Interface](./DEMO/media/Home_Map+Classifier_Page.png)
+- ![Sidebar Results](./DEMO/media/Sidebar-Resulting2.png)
+- ![Comparison Section](./DEMO/media/Comparative_Section.png)
 
 **Walkthrough**
 [View Full Demo](./DEMO/media/Locality_Accommodation_Indicatr_Walkthrough.mp4)
