@@ -105,7 +105,6 @@ A flood risk classifier and accommodation recommendation platform based on AI fo
 - ![Home Interface](https://raw.githubusercontent.com/YoungbloodKV/Locality-Accommodation-System/main/Demo/media/Home_Map%2BClassifier_Page.png)
 - ![Sidebar Results](https://raw.githubusercontent.com/YoungbloodKV/Locality-Accommodation-System/main/Demo/media/Sidebar-Resulting2.png)
 - ![Comparison Section](https://raw.githubusercontent.com/YoungbloodKV/Locality-Accommodation-System/main/Demo/media/Comparative_Section.png)
-
 **Walkthrough**
 [▶ View Full Demo](https://raw.githubusercontent.com/YoungbloodKV/Locality-Accommodation-System/main/Demo/media/Locality_Accommodation_Indicatr_Walkthrough.mp4)
 
