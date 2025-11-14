@@ -7,7 +7,8 @@ Welcome to my GitHub profile. I’m Keerthivasan, a final-year B.Tech CSE (AI & 
 
 ## ABOUT ME
 
-- Final Year B.Tech CSE (AI & ML), VISTAS  
+- Final Year B.Tech CSE (AI & ML), VISTAS
+- Currently Pursuing M.Tech In AI & Data Science, SIMATS  
 - Strong practical focus on AI, ML, NLP, and full-stack product development  
 - Passionate about intelligent automation, GenAI tooling, and scalable backend systems  
 - Independent and collaborative experience in full-cycle development  
